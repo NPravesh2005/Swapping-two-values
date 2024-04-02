@@ -18,11 +18,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 
-## DEVELOPED BY: N.PRAVESH
-## REGISTER NO: 212223230154
-## PROGRAM:
 
-```
+## PROGRAM:
+### developed by : N.Pravesh
+### register no : 212223230154
+
+```python
+
 a = int(input())
 b = int(input())
 print("Swapped values are:",b,a)
